@@ -1,10 +1,15 @@
-# ReCaVSR
+<h1 align="center">ReCaVSR: One-Step Streaming Diffusion Video Super-Resolution<br>with Recycled Latents and Learned Cache Routing</h1>
 
-**ReCaVSR: One-Step Streaming Diffusion Video Super-Resolution with Recycled Latents and Learned Cache Routing**
+<p align="center">Xijun Wang · Xin Li · Suhang Yao · Zirui Lang · Bingchen Li · Zhibo Chen</p>
 
-Xijun Wang, Xin Li, Suhang Yao, Zirui Lang, Bingchen Li, and Zhibo Chen
+<p align="center">University of Science and Technology of China</p>
 
-[Paper](https://arxiv.org/abs/2609.37831) · [Pretrained models](https://huggingface.co/kopper/ReCaVSR) · [Code](https://github.com/kopperx/ReCaVSR)
+<p align="center">
+  <a href="https://kopperx.github.io/ReCaVSR/">Project Page</a> ·
+  <a href="https://arxiv.org/abs/2609.37831">Paper</a> ·
+  <a href="https://huggingface.co/kopper/ReCaVSR">Pretrained Models</a> ·
+  <a href="https://github.com/kopperx/ReCaVSR">Code</a>
+</p>
 
 ReCaVSR is a one-step streaming video super-resolution method built on Wan2.2. It
 reuses previously generated super-resolution latents, assigns different temporal
