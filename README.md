@@ -15,7 +15,7 @@ ReCaVSR is a one-step streaming video super-resolution method built on Wan2.2. I
 reuses previously generated super-resolution latents, assigns different temporal
 cache scopes to transformer layers, and decodes with a low-resolution-conditioned
 FlashDecoder. This repository provides the inference code and links to pretrained
-weights. Training and evaluation pipelines are not included in this release.
+weights.
 
 ## Visual Results
 
