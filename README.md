@@ -23,9 +23,6 @@ weights.
 | :---: | :---: |
 | https://github.com/user-attachments/assets/e78d3868-b06e-4a57-b025-fac737351230 | https://github.com/user-attachments/assets/da6ef150-e0ce-4f4d-bbd5-afb0858c588f |
 
-Both videos retain all 361 frames at their original pixel scale after cropping
-the bottom label. Source MP4s: [input](assets/demo/input.mp4) ·
-[output](assets/demo/output.mp4).
 
 ## Quick Start
 
